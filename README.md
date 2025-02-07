@@ -17,7 +17,7 @@
 
 ### 1. 下载扩展
 
-- 请前往 [GitHub Releases](https://github.com/yueseqaz/multi-image-download/) 页面下载最新版本的压缩包。
+- 请点击绿色的code按钮，下载最新版本的压缩包，并进行解压。
 
 ### 2. 安装到浏览器
 
