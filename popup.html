@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Sakura Image Downloader</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="header">
+    <h2>🌸 Sakura 图片批量下载器(无法加载图片时请点击重试)</h2>
+    <div class="actions">
+      <button id="selectAll" class="btn">全选</button>
+      <button id="download" class="btn btn-primary">下载</button>
+      <a href="donation.html" class="btn btn-primary">支持作者</a>
+    </div>
+  </div>
+
+  <div id="progressBarContainer">
+    <div id="progressBar"></div>
+  </div>
+  
+  <div class="filters">
+    <div class="filter-group">
+      <label>最小宽度:</label>
+      <input type="number" id="minWidth" min="0" placeholder="像素" />
+    </div>
+    <div class="filter-group">
+      <label>最小高度:</label>
+      <input type="number" id="minHeight" min="0" placeholder="像素" />
+    </div>
+    <div class="filter-group">
+      <label>宽高比:</label>
+      <input type="text" id="aspectRatio" placeholder="例: 16:9" />
+    </div>
+  </div>
+  
+  <div id="waterfall" class="waterfall"></div>
+  <div id="preview" class="preview-modal"></div>
+  <div id="downloadStatus" class="download-status"></div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
