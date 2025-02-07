@@ -42,7 +42,7 @@
 
 ## 截图示例 📷
 
-![Extension Screenshot](screenshot.png)
+![Extension Screenshot](https://bu.dusays.com/2025/02/07/67a5fd757be94.jpg)
 
 ## 常见问题 ❓
 
