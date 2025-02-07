@@ -55,11 +55,6 @@
 ## 贡献指南 🤝
 
 欢迎所有贡献！如果您发现 bug 或有任何功能建议，请通过提交 [Issue](https://github.com/yueseqaz/multi-image-download/issues) 或 [Pull Request](https://github.com/yueseqaz/multi-image-download/pulls) 来参与项目改进。  
-在贡献前请阅读 [CONTRIBUTING.md](CONTRIBUTING.md) 获取详细信息。
-
-## 许可协议 📄
-
-本项目采用 [MIT 许可证](LICENSE) 开源。
 
 ## 联系方式 📬
 
